@@ -1,9 +1,14 @@
 # Prueba Técnica DevOps - Ejecución Local 
 Este proyecto contiene una solución completa a la prueba técnica DevOps, completamente funcional en un entorno local usando Docker y GitHub Actions. 
---- ## ✅ Requisitos 
+
+![DiagramaRed](DiagramaRed.png)
+
+---
+ ## ✅ Requisitos 
 - Docker: https://www.docker.com/products/docker-desktop 
 - Git - Cuenta en GitHub (opcional para probar el CI/CD) 
---- ## 🧪 Cómo ejecutar el proyecto localmente 
+---
+ ## 🧪 Cómo ejecutar el proyecto localmente 
 ### 1. Clonar el repositorio 
 ```git clone https://github.com/craftech-inc/devops-interview-ultimate.git cd devops-interview-ultimate ``` 
 ### 2. Ejecutar los servicios con Docker Compose 
