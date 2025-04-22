@@ -1,0 +1,1 @@
+print("Simulando Django")
